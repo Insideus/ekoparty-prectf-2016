@@ -1,0 +1,4 @@
+don't bf
+python opcodes
+saved index
+o[i<<16^0x13]

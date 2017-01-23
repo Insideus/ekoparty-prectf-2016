@@ -1,0 +1,5 @@
+bindiff
+it's free!
+funciones backdoor
+remote tcp shell
+search for execl

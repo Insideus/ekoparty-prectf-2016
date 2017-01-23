@@ -1,0 +1,4 @@
+XOR IT
+keylength = 4
+known plaintext NOT at the beginning
+XOR Congrats
